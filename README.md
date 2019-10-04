@@ -6,7 +6,7 @@ Please ***READ*** this before performing any changes or action!
 Overview
 -
 `The Team`\
-Thomas Siler (Coordinator)\
+Thomas Siler (Coordinator, Teacher)\
 Riley Eisel (Lead Programmer, known as 8-Bit)\
 other students I can't remember...
 
