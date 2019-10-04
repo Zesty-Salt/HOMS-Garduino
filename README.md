@@ -13,7 +13,7 @@ other students I can't remember...
 `This Project's Goal`\
 The purpose of the HOMS Garduino Project is to make it easy for anyone to automate thier garden bed! This project only takes around $50 to set up (Not including garden bed, and compatible programming device).\
 
-Be sure to check back and [download]() the latest versions! 
+Be sure to check back and [download](https://github.com/Zesty-Salt/HOMS-Garduino) the latest versions! 
 
 Instructions:
 -
